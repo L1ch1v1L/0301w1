@@ -4,8 +4,8 @@
 Проект был использован в качестве экзаменнационного материала для практики на втором курсе, где был представлен меню создание/редактирования в Avalonia.
 ## Создание репозитория, Загрузка исходного кода  
 ```
-  > git init </br>
-  > git add . </br>
+  git init 
+  git add . 
   > git commit -m "Hello" </br>
   > git branch -M main </br>
   > git remote add origin "https://github.com/L1ch1v1L/0301w1.git" </br>
