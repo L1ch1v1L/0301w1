@@ -2,10 +2,10 @@
 ## Введение
 Версия гита - git version 2.45.2.windows.1
 Проект был использован в качестве экзаменнационного материала для практики на втором курсе, где был представлен меню создание/редактирования в Avalonia.
-## Создание репозитория, Загрузка исходного кода
-> git init
-> git add .
-> git commit -m "Hello"
+## Создание репозитория, Загрузка исходного кода  
+  > git init </br>
+  > git add . </br>
+  > git commit -m "Hello"
   > git branch -M main
   > git remote add origin "https://github.com/L1ch1v1L/0301w1.git"
   > git push origin main
